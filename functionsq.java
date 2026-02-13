@@ -1,4 +1,4 @@
-// public class functionsq {
+public class functionsq {
 
 //     public static int[] change(int a, int b) {
 //         int temp = a;
@@ -18,21 +18,29 @@
 
 // basic of function
 
-public class functionsq{
-    public static void printhelloworld(){
-        System.out.println("hello world ");
-        System.out.println("Hello world");
-    }
+// public class functionsq{
+//     public static void printhelloworld(){
+//         System.out.println("hello world ");
+//         System.out.println("Hello world");
+//     }
 
-    public static void main (String args[]){
-        printhelloworld();
+//     public static void main (String args[]){
+//         printhelloworld();
 
-    }
-
-}
+//     }
+// }
 
 // FInd factorial of number 
+// public static int sum(int a , int b ){
+//     return a+b ;}
 
 
 
+//  public static void main (String args[]){
+//     System.out.println(sum(3,6));
+//  }
+
+// Binary to decimal 
+
+}
 
